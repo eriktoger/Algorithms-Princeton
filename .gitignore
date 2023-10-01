@@ -1,4 +1,4 @@
-algs4.jar
+*.jar
 .vscode
 *.zip
 *.txt

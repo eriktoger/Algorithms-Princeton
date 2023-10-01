@@ -5,3 +5,9 @@
 - cd week_1
 - javac -cp .:../algs4.jar \*.java
 - java -cp .:../algs4.jar Percolation
+
+### running tests:
+
+- cd week_2
+- $ javac -cp .:../algs4.jar:../junit.jar:../hamcrest-core.jar \*.java
+- java -cp .:../algs4.jar:../junit.jar:../hamcrest-core.jar org.junit.runner.JUnitCore DequeTests
