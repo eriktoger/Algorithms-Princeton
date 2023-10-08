@@ -11,3 +11,4 @@
 - cd week_2
 - $ javac -cp .:../algs4.jar:../junit.jar:../hamcrest-core.jar \*.java
 - java -cp .:../algs4.jar:../junit.jar:../hamcrest-core.jar org.junit.runner.JUnitCore DequeTests
+- To debug test in vs-code: right click arrow and choose Debug Test:
